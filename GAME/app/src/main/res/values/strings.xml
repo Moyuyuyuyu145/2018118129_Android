@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GAME</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score</string>
+    <string name="best">Best</string>
+</resources>
